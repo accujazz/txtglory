@@ -172,8 +172,9 @@ section.items .item:nth-child(4n) {
 }
 
 section.items .add-item {
-	height: 196px;
+	height: 245px;
 	padding-top: 140px;
+	border: 1px solid #ccc;
 }
 
 section.items .add-item h3 {
