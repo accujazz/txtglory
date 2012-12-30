@@ -377,10 +377,23 @@ footer .add-item a:hover, footer .add-item a:focus {
 footer .descr {
 	float: left;
 	font-size: 28px;
-	color: #333;
-	margin: 40px 0 40px 0;
+	color: #777;
+	margin: 40px 0 10px 0;
 	font-weight: 800;
 }
+
+footer .share {
+	float: left;
+	width: 100%;
+	font-size: 18px;
+	color: #333;
+	margin: 0 0 40px 0;
+	font-weight: 800;
+}
+
+footer .share a {
+	text-decoration: underline;
+}	
 
 footer ul li {
 	display: inline;
