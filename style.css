@@ -360,11 +360,25 @@ footer {
 	border-top: 1px solid #ccc;
 }
 
+footer .add-item a {
+	color: #777;
+	font-size: 5em;
+	font-weight: 400;
+}
+
+footer .add-item h3 {
+	color: #777;
+}
+
+footer .add-item a:hover, footer .add-item a:focus {
+	color: #F00036;
+}
+
 footer .descr {
 	float: left;
 	font-size: 28px;
 	color: #333;
-	margin: 0 0 40px 0;
+	margin: 40px 0 40px 0;
 	font-weight: 800;
 }
 
