@@ -173,6 +173,7 @@ section.items .item:nth-child(4n) {
 
 section.items .add-item {
 	height: 245px;
+	width: 213px;
 	padding-top: 140px;
 	border: 1px solid #ccc;
 }
